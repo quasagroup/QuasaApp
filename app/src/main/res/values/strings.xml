@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuasaApp</string>
+    <string name="navigation_drawer_open">Отрыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Quasa</string>
+    <string name="nav_header_subtitle">info@quasa.io</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Создать задание</string>
+    <string name="menu_gallery">Мои задания</string>
+    <string name="menu_slideshow">Все задания</string>
+    <string name="menu_tools">Сообщения</string>
+    <string name="menu_share">Уведомления</string>
+    <string name="menu_send">Стать проверенным исполнителем</string>
+</resources>
