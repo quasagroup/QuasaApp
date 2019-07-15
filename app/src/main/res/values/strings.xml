@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuasaApp</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Quasa</string>
+    <string name="nav_header_subtitle">info@quasa.io</string>
+    <string name="nav_header_desc">Меню</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="create_task">Создать задание</string>
+    <string name="my_tasks">Мои задания</string>
+    <string name="all_tasks">Все задания</string>
+    <string name="messages">Сообщения</string>
+    <string name="user_card">Профиль</string>
+    <string name="exit">Выход</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
